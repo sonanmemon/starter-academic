@@ -5,7 +5,7 @@ summary: ""
 authors: []
 url_video: ""
 date: 2020-12-18T10:48:42.726Z
-external_link: https://github.com/sonanmemon
+external_link: OPTIONAL
 url_slides: ""
 title: My MPhil Thesis
 subtitle: Endogenous Consumer Sentiments and Endogenous Business Cycles
