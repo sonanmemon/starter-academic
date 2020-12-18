@@ -37,4 +37,4 @@ highlight_name: false
 ---
 Sonan Memon is an aspiring macroeconomist.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_SonanMemon_Dec2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
